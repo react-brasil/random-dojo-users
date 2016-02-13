@@ -2,7 +2,7 @@
 
 Generate N randoms github users to assign Dojo Tasks
 
-# First
+# First, install the dependencies
 
 ```js
 npm install
