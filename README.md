@@ -4,20 +4,20 @@ Generate N randoms github users to assign Dojo Tasks
 
 # First, install the dependencies
 
-```js
+```sh
 npm install
 ```
 
 # Usage
 
-Generate 1 random users
-```js
+Generate 1 random user
+```sh
 npm start
 ```
 
-or 
+or
 
 Generate 3 random users
-```js
+```sh
 node index.js 3
 ```
